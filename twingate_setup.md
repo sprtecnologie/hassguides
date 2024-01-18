@@ -1,6 +1,6 @@
-# Deploying On-Premises Connector on Raspberry Pi with Docker
+# Deploying On-Premises Connector on a system with Docker
 
-🚀 This guide will walk you through the process of deploying an on-premises connector on a Raspberry Pi using Docker. The on-premises connector allows secure communication between your Raspberry Pi and remote resources through Twingate.
+🚀 This guide will walk you through the process of deploying an on-premises connector on a Raspberry Pi using Docker. The on-premises connector allows secure communication between your system and remote resources through Twingate.
 
 ## Step 1: Twingate Admin Account Creation
 
