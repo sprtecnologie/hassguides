@@ -34,7 +34,7 @@
 1. On the main page of your newly created Network, click on the "**+**" button to add a resource ➕
 2. Select your remote network from the drop-down menu ⬇️
 3. Select "**CIDR**" and name your resource in the "**Label**" field 🏷️
-4. Insert your Raspberry Pi's IP Address in the "**CIDR Address**" field 🖥️
+4. Insert your system's's IP Address in the "**CIDR Address**" field 🖥️
 5. Click on save ✔️
 6. Finally, you will be prompted to choose any user restrictions if you have set up user groups. If not, just select "**Everyone**" 👥
 
