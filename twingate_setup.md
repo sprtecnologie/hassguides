@@ -2,11 +2,6 @@
 
 🚀 This guide will walk you through the process of deploying an on-premises connector on a Raspberry Pi using Docker. The on-premises connector allows secure communication between your Raspberry Pi and remote resources through Twingate.
 
-## Prerequisites
-
-📋 Raspberry Pi (Model 3B+ or later)
-☑️ Docker installed on the Raspberry Pi
-
 ## Step 1: Twingate Admin Account Creation
 
 1. Visit [Twingate's website](https://www.twingate.com/) and click on "**Pricing**" 🌐
@@ -30,7 +25,7 @@
 2. Now choose to deploy the connector using Docker 🐳
 3. Click on "**Generate Tokens**" and re-authenticate to your account 🔒
 4. With this done, skip to step number four and copy the CLI command 📋
-5. On your Raspberry Pi, paste the CLI Command (remember to use SSH for a more convenient procedure) 🍓
+5. On your System, paste the CLI Command (remember to use SSH for a more convenient procedure) 🍓
 
 🎉 Congratulations, you have deployed a connector! You can verify it by the green LED near the connector in the Twingate admin page.
 
